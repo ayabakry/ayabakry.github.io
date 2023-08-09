@@ -1,0 +1,76 @@
+/* @media (max-width: 768px) { */
+.box {
+  border: 0px none;
+  height: 50vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.box .big-ads {
+  height: 1030px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1920px;
+}
+
+.box .overlap {
+  height: 1030px;
+  position: relative;
+}
+
+.box .shades {
+  -webkit-backdrop-filter: blur(38px) brightness(100%);
+  backdrop-filter: blur(38px) brightness(100%);
+  background-color: #070707;
+  height: 1024px;
+  left: 0;
+  mix-blend-mode: multiply;
+  opacity: 0.25;
+  position: absolute;
+  top: 6px;
+  width: 1920px;
+}
+
+.box .blured {
+  height: 1024px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+
+
+}
+
+
+
+
+.box .group {
+  height: 778px;
+  left: 524px;
+  position: absolute;
+  top: 106px;
+  width: 872px;
+}
+
+
+
+.box .big-ads-2 {
+  color: #070707;
+  height: auto;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 100%;
+}
+
+.styledev {
+  filter: blur(8px);
+  color: #070707;
+ 
+}
+
+/* } */

@@ -1,0 +1,301 @@
+
+
+  .frame {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame .div {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 1024px;
+  position: relative;
+  width: 1920px;
+}
+
+.frame .overlap-group {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/36b359f3021459960795d0bc1cf7c633/img/egypt-corporate-banking-home-banner.png);
+  background-size: 100% 100%;
+  width: 1920px;
+  height: 864px;
+  left: 0;
+  position: absolute;
+  top: 160px;
+  
+}
+
+.frame .min-ads {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/36b359f3021459960795d0bc1cf7c633/img/mask-group@2x.png);
+  background-size: 100% 100%;
+  height: 341px;
+  left: 1579px;
+  position: relative;
+  top: 181px;
+  width: 341px;
+}
+
+.frame .nav {
+  /* height: 97px; */
+  left: 80px;
+  position: absolute;
+  top: 52px;
+  width: 1765px;
+}
+
+.frame .div-2 {
+  align-items: center;
+  display: flex;
+  gap: 30px;
+  height: 36px;
+  justify-content: flex-end;
+  left: 1018px;
+  position: absolute;
+  top: 37px;
+  width: 536px;
+}
+
+.frame .div-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6.38px;
+  position: relative;
+}
+
+.frame .vector {
+  height: 7.98px;
+  position: relative;
+  width: 10.64px;
+}
+
+.frame .text-wrapper-2 {
+  color:rgb(31 67 133);
+  direction: rtl;
+  font-family: var(--paragraph-medium-regular-font-family);
+  font-size: var(--paragraph-medium-regular-font-size);
+  font-style: var(--paragraph-medium-regular-font-style);
+  font-weight: var(--paragraph-medium-regular-font-weight);
+  letter-spacing: var(--paragraph-medium-regular-letter-spacing);
+  line-height: var(--paragraph-medium-regular-line-height);
+  margin-top: -1.28px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame .div-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.frame .line {
+  height: 1px;
+  left: 1073px;
+  object-fit: cover;
+  position: absolute;
+  top: 80px;
+  width: 107px;
+}
+
+.frame .eelu-logo {
+  height: 97px;
+  left: 807px;
+  position: absolute;
+  top: 0;
+  width: 150px;
+}
+
+.frame .div-4 {
+  align-items: flex-end;
+  display: flex;
+  height: 37px;
+  justify-content: space-between;
+  left: 0;
+  position: absolute;
+  top: 36px;
+  width: 717px;
+}
+
+.frame .div-5 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 25.53px;
+  justify-content: center;
+  position: relative;
+}
+
+.frame .misclanius {
+  height: 34.46px;
+  position: relative;
+  width: 37.01px;
+}
+
+.frame .rectangle {
+  background-color:rgb(31 67 133);
+  height: 9px;
+  left: 0;
+  position: absolute;
+  top: 26px;
+  transform: rotate(90deg);
+  width: 9px;
+}
+
+.frame .rectangle-2 {
+  background-color:rgb(31 67 133);
+  height: 9px;
+  left: 0;
+  position: absolute;
+  top: 13px;
+  transform: rotate(90deg);
+  width: 9px;
+}
+
+.frame .rectangle-3 {
+  background-color:rgb(31 67 133);
+  height: 9px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(90deg);
+  width: 9px;
+}
+
+.frame .rectangle-4 {
+  background-color:rgb(31 67 133);
+  height: 9px;
+  left: 14px;
+  position: absolute;
+  top: 26px;
+  transform: rotate(90deg);
+  width: 9px;
+}
+
+.frame .rectangle-5 {
+  background-color:rgb(31 67 133);
+  height: 9px;
+  left: 14px;
+  position: absolute;
+  top: 13px;
+  transform: rotate(90deg);
+  width: 9px;
+}
+
+.frame .rectangle-6 {
+  background-color:rgb(31 67 133);
+  height: 9px;
+  left: 14px;
+  position: absolute;
+  top: 0;
+  transform: rotate(90deg);
+  width: 9px;
+}
+
+.frame .rectangle-7 {
+  background-color:rgb(31 67 133);
+  height: 9px;
+  left: 28px;
+  position: absolute;
+  top: 26px;
+  transform: rotate(90deg);
+  width: 9px;
+}
+
+.frame .rectangle-8 {
+  background-color:rgb(31 67 133);
+  height: 9px;
+  left: 28px;
+  position: absolute;
+  top: 13px;
+  transform: rotate(90deg);
+  width: 9px;
+}
+
+.frame .rectangle-9 {
+  background-color:rgb(31 67 133);
+  height: 9px;
+  left: 28px;
+  position: absolute;
+  top: 0;
+  transform: rotate(90deg);
+  width: 9px;
+}
+
+.frame .button {
+  align-items: center !important;
+  border: 1.28px solid !important;
+  border-color:rgb(31 67 133) !important;
+  display: flex !important;
+  gap: 12.76px !important;
+  height: 37.01px !important;
+  justify-content: center !important;
+  margin-bottom: -1.28px !important;
+  margin-top: -1.28px !important;
+  padding: 6.38px 12.76px !important;
+  width: 48.5px !important;
+}
+
+.frame .type-ghost-state-default-size-xsmall {
+  color:rgb(31 67 133) !important;
+  direction: unset !important;
+  margin-left: -0.29px !important;
+  margin-top: -2.15px !important;
+  white-space: unset !important;
+}
+
+.frame .search {
+  height: 23.88px;
+  position: relative;
+  width: 23.88px;
+}
+
+.frame .div-6 {
+  align-items: center;
+  display: flex;
+  gap: 43.4px;
+  height: 34px;
+  justify-content: flex-end;
+  position: relative;
+  width: 483px;
+}
+
+.frame .normal-instance {
+  left: 1631px !important;
+  position: absolute !important;
+  top: 37px !important;
+}
+
+.frame .design-component-instance-node {
+  font-family: var(--paragraph-small-regular-font-family) !important;
+  font-size: var(--paragraph-small-regular-font-size) !important;
+  font-style: var(--paragraph-small-regular-font-style) !important;
+  font-weight: var(--paragraph-small-regular-font-weight) !important;
+  letter-spacing: var(--paragraph-small-regular-letter-spacing) !important;
+  line-height: var(--paragraph-small-regular-line-height) !important;
+}
+.register {
+  align-items: center;
+  background-color: rgb(17 35 97);
+  border-color: rgb(211 226 249);
+  box-shadow: 0px 4px 5px #7b9adb80;
+  justify-content: center;
+  padding: 8px 24px;
+  left: 1631px !important;
+  position: absolute !important;
+  top: 37px !important;
+  border: 1px solid;
+    border-radius: 4px;
+    display: inline-flex;
+    gap: 10px;
+    color: #f4f5fc;
+    font-size: small;
+
+}
